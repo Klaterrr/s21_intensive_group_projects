@@ -1,4 +1,4 @@
-```markdown
+
 # School 21 Summer Intensive: C Projects
 
 This repository contains three small C projects developed during the School 21 summer intensive.  These projects focus on fundamental programming concepts, structured programming principles, and the use of the standard C library, along with `ncurses` for one project.  Each project simulates a classic scenario, building skills in algorithm design, data structures, and terminal-based user interfaces.
@@ -19,7 +19,7 @@ This repository includes the following projects:
 *   **Memory Management:**  Careful attention is paid to memory management to prevent leaks.  Dynamic memory allocation is used in the Polish Notation project.
 *   **Libraries:**  Projects primarily use the standard C library (`stdio.h`, `stdlib.h`, `string.h`, `math.h`).  The Game of Life project also utilizes the `ncurses` library for interactive terminal control.
 *   **Build System:** A `Makefile` is provided for each project for compilation and building.
-```
+
 ## Project Details
 
 ### 1. P01D06-1-ping-pong
